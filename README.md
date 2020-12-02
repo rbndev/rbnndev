@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-  <a href="https://api.whatsapp.com/send?phone=5514991653238&text=Olá%20iuricode,%20tudo%20bem?" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5582991175523&text=Olá%20RbnnDev,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5582991175523&text=Olá%20RbnnDev,%20tudo%20bem?"/></a>
 
-  <a href="https://www.instagram.com/iuricoding/" alt="Instagram">
+  <a href="https://www.instagram.com/rbnn1/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/rbnn1/"/></a>
 </p>  
