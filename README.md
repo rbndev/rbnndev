@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💻 Back end: <strong>Nodejs, PHP, Python e C.</strong>
+  💻 Back-end: <strong>Nodejs, PHP, Python e C.</strong>
 </p>
 
 <p align="left">
