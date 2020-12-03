@@ -1,4 +1,4 @@
-<img src="https://codigofonte.com.br/wp-content/uploads/legado/noticias/programador_02.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://codigofonte.com.br/wp-content/uploads/legado/noticias/programador_02.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="RbnDev">
 
 <p align="left"> 
   Hello, my name is Rubens I am <strong>Javascript lover</strong>.<br>
