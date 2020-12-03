@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🗝️ Skills: <strong>Socket.io, WebRtc.</strong>
+  ⌨️ Skills: <strong>Socket.io, WebRtc.</strong>
 </p>
 
 
