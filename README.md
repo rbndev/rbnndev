@@ -6,16 +6,18 @@
 </p>
 
 <p align="left">
-  🦄 Back end: <strong>Nodejs, PHP, Python e C.</strong>
+  🦄 Front-end: <strong>HTML5, CSS3, JavaScript, Bootstrap, Jquery, Vue.</strong>
 </p>
 
 <p align="left">
-  🦄 Front-end: <strong>HTML5, CSS3, JavaScript, Bootstrap, Jquery, Vue.</strong>
+  💻 Back end: <strong>Nodejs, PHP, Python e C.</strong>
 </p>
 
 <p align="left">
   🗝️ DataBase: <strong>Mysql, mongodb e MariaDb.</strong>
 </p>
+
+<hr>
 
 <p align="left">
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
