@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://codigofonte.com.br/wp-content/uploads/legado/noticias/programador_02.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Hello, my name is Rubens I am <strong>Javascript lover</strong>.<br>
@@ -6,11 +6,19 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JS, PHP, Nodejs.</strong>
+  🦄 Back end: <strong>Nodejs, PHP, Python e C.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, PhotoShop, Git e GitHub.</strong>
+  🦄 Front-end: <strong>HTML5, CSS3, JavaScript, Bootstrap, Jquery, Vue.</strong>
+</p>
+
+<p align="left">
+  🗝️ DataBase: <strong>Mysql, mongodb e MariaDb.</strong>
+</p>
+
+<p align="left">
+  💼 DB: <strong>Mysql, mongodb e MariaDb.</strong>
 </p>
 
 <p align="left">
