@@ -17,6 +17,11 @@
   🗝️ DataBase: <strong>Mysql, mongodb e MariaDb.</strong>
 </p>
 
+<p align="left">
+  🗝️ Skills: <strong>Socket.io, WebRtc.</strong>
+</p>
+
+
 <hr>
 
 <p align="left">
