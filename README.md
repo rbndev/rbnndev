@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  🗝️ DataBase: <strong>Mysql, mongodb e MariaDb.</strong>
+  🗝️ DataBase: <strong>Mysql, Mongodb e MariaDb.</strong>
 </p>
 
 <hr>
