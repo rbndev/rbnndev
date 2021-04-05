@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Front-end: <strong>HTML5, CSS3, JavaScript, Bootstrap, Jquery, Vue.</strong>
+  🦄 Front-end: <strong>HTML5, CSS3, JavaScript, Bootstrap, Jquery, React, Vue.</strong>
 </p>
 
 <p align="left">
