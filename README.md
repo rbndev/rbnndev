@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Front-end: <strong>HTML5, CSS3, JavaScript, Bootstrap, Jquery, React, Vue.</strong>
+  🦄 Front-end: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><strong>CSS3, JavaScript, Bootstrap, Jquery, React, Vue.</strong>
 </p>
 
 <p align="left">
