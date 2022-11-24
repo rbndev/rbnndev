@@ -25,8 +25,11 @@
   💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: 
 </p>
 
-<p align="left">
-  <a href="https://api.whatsapp.com/send?phone=5582991175523&text=Olá%20RbnnDev,%20tudo%20bem?" alt="WhatsApp">Whatsapp</a>
-  <a href="https://www.instagram.com/rbnn1/" alt="Instagram">Instagram</a>
+<div
+     style="display: flex;flex-direction: column;" 
+     align="left"
+>
   <a href="https://t.me/rbndev" alt="Telegram">Telegram</a>
-</p>  
+  <a href="https://www.instagram.com/rbnn1/" alt="Instagram">Instagram</a>
+  <a href="https://api.whatsapp.com/send?phone=5582991175523&text=Olá%20RbnnDev,%20tudo%20bem?" alt="WhatsApp">Whatsapp</a>
+</div>  
