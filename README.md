@@ -30,6 +30,6 @@
      align="left"
 >
   <a href="https://t.me/rbndev" alt="Telegram">Telegram,</a>
-  <a href="https://www.instagram.com/rbnn1/" alt="Instagram"> Instagram,</a>
+  <a href="https://www.instagram.com/rbndev" alt="Instagram"> Instagram,</a>
   <a href="https://api.whatsapp.com/send?phone=5582991175523&text=Olá%20RbnnDev,%20tudo%20bem?" alt="WhatsApp"> Whatsapp.</a>
 </div>  
