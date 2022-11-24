@@ -26,7 +26,7 @@
 </p>
 
 <div
-     style="display: flex;flex-direction: column;" 
+     class="columns"
      align="left"
 >
   <a href="https://t.me/rbndev" alt="Telegram">Telegram</a>
